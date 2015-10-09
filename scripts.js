@@ -1,3 +1,5 @@
+alert("Thanks for visiting my website, you rock")
+alert("Just Kidding")
 google.load('visualization', '1', {packages: ['corechart', 'bar']});
 google.setOnLoadCallback(drawBasic);
 
