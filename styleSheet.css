@@ -1,6 +1,69 @@
-body{
-    background-color: orange;
+#body{
+    height: 200px;
+    width: 1000px;
+    padding: 5px;
+    clear: both;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    color: black;
 }
-p{
-    color: springgreen;
+
+#chart_div{
+    width: 500px;
+    height: 400px;
+    float: right;
+    border: 2px black solid;
+    margin: auto;
+}
+
+#chart_div1{
+    width: 500px;
+    height: 400px;
+    float: left;
+    margin: 0 0 10px 10px;
+    border: 2px black solid;
+    margin: auto;
+}
+
+#footer {
+    height: 40px;
+    text-size: 100px;
+    background-color: blue;
+    color: black;
+    clear: both;
+    text-align: center;
+    padding: 5px;
+
+}
+
+#footer2 {
+    height: 40px;
+    text-size: 100px;
+    background-color: blue;
+    color: black;
+    clear: both;
+    text-align: center;
+    padding: 5px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#freethrow{
+    background-color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    color: black;
+}
+
+#3point{
+    background-color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    color: black;
 }
